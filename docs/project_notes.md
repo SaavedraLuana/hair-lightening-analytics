@@ -1,28 +1,18 @@
-# Project Notes
-
-## Starting Point
-
-The treatment started at the lower part of the nape.
-
-## Current Progress
-
-After approximately 15 days, visible lightening has been observed in the initial treatment area.
-
 ## Routine
 
 The lightening routine currently includes:
 
+### Lightening
+
 - Garnier lightening cream
 - Chamomile spray
-- Hydration
-- Nutrition
 
-## Future Data
+### Moisturizing
 
-As the treatment progresses, new observations will be added to track:
+- Coconut oil
 
-- Hair areas treated
-- Application frequency
-- Lightening progression
-- Hair condition
-- Personal satisfaction
+### Nutrition
+
+- Argan oil cream
+
+Hydration and nutrition are included as supporting parts of the routine while the lightening process progresses.
