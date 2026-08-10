@@ -14,6 +14,13 @@ Alongside the lightening products, I also use hydration and nutrition products a
 
 The goal of this project is to transform my personal experience into structured data while practicing SQL, data analysis, and data storytelling.
 
+## 💇 Hair Profile
+
+- Hair type: Curly / Coily
+- Curl pattern: 3C
+- Porosity: High porosity
+- Current project focus: Gradual hair lightening and hair-care maintenance
+
 ---
 
 ## 🎯 Project Goals
