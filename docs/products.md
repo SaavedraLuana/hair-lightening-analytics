@@ -54,7 +54,75 @@ Fields in data/products.csv
   - CSV id: 4
   - Image: `images/bondfix.jpg`
 
-## How to add products
-- Edit `data/products.csv` and add a new row. Keep the `id` unique.
-- Add an image to `images/` and reference it in `image_path` if desired.
-- If you want, I can add a small script to load `data/products.csv` into your analysis notebooks.
+## Additional products (added by you)
+
+- **Garnier Elixir Iluminador (serum aclarante progresivo)**
+  - Brand: Garnier
+  - Type: serum (aclarante progresivo)
+  - Usage: 2x per week (daytime), dried in the sun
+  - Notes: You reported this is the product making your hair lighter; used during the day and drying under the sun
+  - CSV id: 5
+  - Image: `images/garnier_elixir.jpg`
+
+- **Loción Spray Reflejos Rubios**
+  - Brand: Garnier
+  - Type: spray
+  - Usage: 1x per week to open the hair colour
+  - Notes: CSV id: 6
+  - Image: `images/locion_reflejos.jpg`
+
+- **Herbal Bionature Rizos Bounce Cream**
+  - Brand: Herbal Bionature
+  - Type: cream
+  - Usage: everyday
+  - Notes: Moisturizes and helps keep curls
+  - CSV id: 7
+  - Image: `images/bionature_bounce.jpg`
+
+- **Herbal Bionature Curl Activator Gel**
+  - Brand: Herbal Bionature
+  - Type: gel
+  - Usage: 3x per week
+  - Notes: Curl activator
+  - CSV id: 8
+  - Image: `images/bionature_gel.jpg`
+
+- **Garnier Fructis Nutri Rizos Hidra Caracois Crema Definidora**
+  - Brand: Garnier Fructis
+  - Type: cream / defining
+  - Usage: everyday
+  - Notes: Helps keep curls for longer
+  - CSV id: 9
+  - Image: `images/garnier_fructis.jpg`
+
+- **Revlon Flex Definicion del Rizo Acondicionador Liquido**
+  - Brand: Revlon
+  - Type: liquid conditioner
+  - Usage: everyday
+  - Notes: Helps with detangling
+  - CSV id: 10
+  - Image: `images/revlon_definicion.jpg`
+
+- **Be Beauty Argan Oil Hair Serum**
+  - Brand: Be Beauty
+  - Type: serum (argan oil)
+  - Usage: 3x per week at night
+  - Notes: Argan oil serum for shine and smoothing
+  - CSV id: 11
+  - Image: `images/be_beauty_argan.jpg`
+
+- **Deliplus Repair e Nutrition Mask**
+  - Brand: Deliplus
+  - Type: mask
+  - Usage: once a week
+  - Notes: Repair & Nutrition mask
+  - CSV id: 12
+  - Image: `images/deliplus_mask.jpg`
+
+## How to add images
+- Add image files to the `images/` folder and reference them in the `image_path` column in `data/products.csv`.
+
+If you want, I can:
+- Add placeholder image files to `images/` (small JPGs) so the docs show pictures.
+- Add a Python notebook or script to load and preview `data/products.csv`.
+- Update any fields (active ingredients, concentration, price, rating) if you provide them.

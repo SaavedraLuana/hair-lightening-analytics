@@ -1,5 +1,13 @@
 id,name,brand,product_type,active_ingredients,concentration,use_frequency,start_date,end_date,price,notes,rating,image_path
-1,"OxiLift Bleach","ExampleBrand",bleach,"ammonium persulfate","10 vol","every 6 weeks","2025-12-01",,"12.99","Left on 25 min; minor breakage",4,images/oxilift.jpg
+1,"OxiLift Bleach","ExampleBrand",bleach,"ammonium persulfate","10 vol","every 6 weeks","2025-12-01",,12.99,"Left on 25 min; minor breakage",4,images/oxilift.jpg
 2,"ProDev Developer","ExampleBrand",developer,"hydrogen peroxide","20 vol","with bleach","2025-12-01",,,6.50,,5,images/prodev.jpg
-3,"SoftTone Toner","ExampleBrand",toner,"ultraviolet violet pigment",,"as needed","2026-01-10",,"9.99","Neutralizes brassiness",4,images/softtone.jpg
-4,"BondFix Treatment","RepairCo",bond-builder,cysteamine,crosslinker,weekly,"2026-02-01",,"24.99","Use 1-2 times/week after washing",5,images/bondfix.jpg
+3,"SoftTone Toner","ExampleBrand",toner,"ultraviolet violet pigment",,"as needed","2026-01-10",,9.99,"Neutralizes brassiness",4,images/softtone.jpg
+4,"BondFix Treatment","RepairCo",bond-builder,cysteamine,crosslinker,weekly,"2026-02-01",,24.99,"Use 1-2 times/week after washing",5,images/bondfix.jpg
+5,"Garnier Elixir Iluminador (serum aclarante progresivo)",Garnier,serum,,,,"2x per week (day, dried in sun)",,,"Used during day and drying under the sun; causes gradual lightening",,images/garnier_elixir.jpg
+6,"Loción Spray Reflejos Rubios",Garnier,spray,,,,"1x per week",,,"Opens the hair colour; used once per week",,images/locion_reflejos.jpg
+7,"Herbal Bionature Rizos Bounce Cream","Herbal Bionature",cream,,,,daily,,,"Moisturizes and keeps curls; everyday use",,images/bionature_bounce.jpg
+8,"Herbal Bionature Curl Activator Gel","Herbal Bionature",gel,,,,"3x per week",,,"Curl activator gel; 3x/week use",,images/bionature_gel.jpg
+9,"Garnier Fructis Nutri Rizos Hidra Caracois Crema Definidora","Garnier Fructis",cream,,,,daily,,,"Defines and preserves curls; everyday use",,images/garnier_fructis.jpg
+10,"Revlon Flex Definicion del Rizo Acondicionador Liquido",Revlon,conditioner,,,,daily,,,"Helps with detangling; everyday use",,images/revlon_definicion.jpg
+11,"Be Beauty Argan Oil Hair Serum","Be Beauty",serum,argan oil,,"3x per week (night)",,,"Argan oil serum; 3x/week at night",,images/be_beauty_argan.jpg
+12,"Deliplus Repair e Nutrition Mask",Deliplus,mask,,,,"once a week",,,"Repair & Nutrition mask; once a week",,images/deliplus_mask.jpg
