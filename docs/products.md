@@ -119,10 +119,4 @@ Fields in data/products.csv
   - CSV id: 12
   - Image: `images/deliplus_mask.jpg`
 
-## How to add images
-- Add image files to the `images/` folder and reference them in the `image_path` column in `data/products.csv`.
 
-If you want, I can:
-- Add placeholder image files to `images/` (small JPGs) so the docs show pictures.
-- Add a Python notebook or script to load and preview `data/products.csv`.
-- Update any fields (active ingredients, concentration, price, rating) if you provide them.
