@@ -1,5 +1,5 @@
-product_id,product,brand,category,purpose
-1,Garnier Lightening Cream,Garnier,Lightening,Hair lightening
-2,Chamomile Spray,Unknown,Lightening,Gradual hair lightening
-3,Coconut Oil,Unknown,Moisturizing,Hair moisture and conditioning
-4,Argan Oil Cream,Unknown,Nutrition,Hair nourishment and conditioning
+id,name,brand,product_type,active_ingredients,concentration,use_frequency,start_date,end_date,price,notes,rating,image_path
+1,"OxiLift Bleach","ExampleBrand",bleach,"ammonium persulfate","10 vol","every 6 weeks","2025-12-01",,"12.99","Left on 25 min; minor breakage",4,images/oxilift.jpg
+2,"ProDev Developer","ExampleBrand",developer,"hydrogen peroxide","20 vol","with bleach","2025-12-01",,,6.50,,5,images/prodev.jpg
+3,"SoftTone Toner","ExampleBrand",toner,"ultraviolet violet pigment",,"as needed","2026-01-10",,"9.99","Neutralizes brassiness",4,images/softtone.jpg
+4,"BondFix Treatment","RepairCo",bond-builder,cysteamine,crosslinker,weekly,"2026-02-01",,"24.99","Use 1-2 times/week after washing",5,images/bondfix.jpg
