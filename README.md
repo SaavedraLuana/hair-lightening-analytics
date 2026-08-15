@@ -83,7 +83,7 @@ Below are photos of the products and hair strands used in this project (files ar
 ![Close-up of curled strand](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01.jpeg)
 _Close-up of a lighter curled strand next to twisted/locked hair._
 
-![Herbal (alternate) / Product](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01%20(7).jpeg)
+![Loción Spray Aclarante) / Product](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01%20(7).jpeg)
 _Alternate angle of a Herbal/Bionature product._
 
 ![Garnier / Product (alternate)](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01%20(8).jpeg)
