@@ -76,11 +76,9 @@ Full Head
 
 Below are photos of the products and hair strands used in this project (files are in the images/ folder).
 
-![Herbal Bionature Curl Activator — Rizos](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01%20(1).jpeg)
-_Herbal Bionature Curl Activator — Rizos (200 ml)_
 
-![Garnier Fructis Nutri Rizos — Secado al Aire](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01%20(2).jpeg)
-_Garnier Fructis Nutri Rizos — Secado al Aire (pistachio oil)_
+![Haie nupe after few days of using the Garnier Elixir](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01%20(2).jpeg)
+
 
 ![Close-up of curled strand](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01.jpeg)
 _Close-up of a lighter curled strand next to twisted/locked hair._
