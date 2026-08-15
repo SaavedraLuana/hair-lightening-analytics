@@ -11,7 +11,7 @@ Fields in data/products.csv
 - concentration: developer/bleach concentration (e.g., 10 vol, 20 vol)
 - use_frequency: how often I use it
 - start_date / end_date: dates when I started/stopped using the product
-- price: approximate price in EUR
+- price: approximate price in EUR (FROM 4Eur to 7Eur Each)
 - notes: personal notes about use and effects
 - rating: my personal rating (1-5)
 - image_path: relative path to an image in `images/`
