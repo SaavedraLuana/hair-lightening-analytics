@@ -4,6 +4,7 @@ This page lists products I use in my hair-lightening journey. There's also a str
 
 Fields in data/products.csv
 - id: numeric unique identifier
+- places: Druni and Primor Madrid
 - name: product name
 - brand: brand or manufacturer
 - product_type: e.g., bleach, developer, toner, bond-builder, treatment
