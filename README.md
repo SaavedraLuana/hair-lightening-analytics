@@ -79,9 +79,9 @@ Below are photos of the products and hair strands used in this project (files ar
 
 ![Haie nupe after few days of using the Garnier Elixir](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01%20(2).jpeg)
 
+![Full harir back after straitening Taken on August 20th 2026 ] (images/<img width="1536" height="2048" alt="WhatsApp Image 2026-08-20 at 16 33 10" src="https://github.com/user-attachments/assets/c340f96c-e641-4400-94ed-e9df785929a7" />
 
-![Close-up of curled strand](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01.jpeg)
-_Close-up of a lighter curled strand next to twisted/locked hair._
+
 
 ![Loción Spray Aclarante) / Product](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01%20(7).jpeg)
 _Alternate angle of a Herbal/Bionature product._
