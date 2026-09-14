@@ -33,7 +33,8 @@ The goal of this project is to transform my personal experience into structured 
 - Practice SQL and data analysis
 - Explore patterns in the treatment over time
 
-- ## 🤎 Hair Color Goal
+  ---
+  ## 🤎 Hair Color Goal
 
 My goal is to gradually reach a chocolate brown shade while maintaining the health, moisture and curl pattern of my 3C/4A high-porosity hair.
 
