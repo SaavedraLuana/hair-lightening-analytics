@@ -33,6 +33,24 @@ The goal of this project is to transform my personal experience into structured 
 - Practice SQL and data analysis
 - Explore patterns in the treatment over time
 
+- ## 🤎 Hair Color Goal
+
+My goal is to gradually reach a chocolate brown shade while maintaining the health, moisture and curl pattern of my 3C/4A high-porosity hair.
+
+Rather than trying to lighten my hair quickly, I am documenting the process over time and adjusting the frequency of lightening treatments according to how my hair responds.
+
+The main things I am monitoring are:
+
+- Progress toward a chocolate brown tone
+- Color differences between the front and back sections
+- Dryness after lightening treatments
+- Moisture and softness after deep conditioning
+- Curl definition
+- Breakage
+- Overall hair condition
+
+Because the back of my hair has lightened faster than the front, I am currently focusing more on the front section to gradually create a more even result.
+
 ---
 
 ## 🌻 Current Treatment
