@@ -1,119 +1,133 @@
 # 🌻 Hair Lightening Analytics
 
-> Tracking my personal hair-lightening journey through data.
+> Tracking my personal hair-lightening journey through structured data, observations and progress photography.
 
 ## 📖 About the Project
 
-This project documents my personal hair-lightening journey using a Garnier lightening cream and chamomile spray.
+This is a personal data analytics project based on my gradual hair-lightening journey.
 
-I started the process at the lower part of the nape and gradually began expanding the application to other areas of my hair.
+I created it to turn something I was already observing in my everyday life into structured data that I can analyze over time.
 
-After approximately 15 days, I have already observed visible lightening in the areas where the treatment was initially applied.
+Instead of only documenting the final result, I track the treatments I use, different areas of my hair, color progression and changes in hair condition.
 
-Alongside the lightening products, I also use hydration and nutrition products as part of my hair-care routine.
+The project also gives me a practical way to develop my skills in **SQL, data collection, data analysis and data storytelling** using my own longitudinal dataset.
 
-The goal of this project is to transform my personal experience into structured data while practicing SQL, data analysis, and data storytelling.
+---
 
-## 💇 Hair Profile
+## 👱 Hair Profile
 
-- Hair type: Curly / Coily
-- Curl pattern: 3C
-- Porosity: High porosity
-- Current project focus: Gradual hair lightening and hair-care maintenance
+- **Hair type:** Curly / Coily
+- **Curl pattern:** 3C/4A
+- **Porosity:** High porosity
+- **Color goal:** Chocolate brown
+- **Current focus:** Gradual lightening, more even color and hair-care maintenance
+
+---
+
+## 🤎 Hair Color Goal
+
+My goal is to gradually reach a chocolate-brown shade while maintaining my curl pattern and monitoring the condition of my hair throughout the process.
+
+Rather than trying to reach the target color quickly, I document the process over time and adjust my routine according to my observations.
+
+The main variables I am monitoring include:
+
+- color/lightening progress
+- differences between hair sections
+- dryness
+- softness
+- shine
+- curl definition
+- breakage/shedding
+- overall hair condition
+
+One of my main observations so far is that the back of my hair has lightened faster than the front.
+
+Because of this difference, my current strategy focuses more on the front sections while allowing already lighter areas more recovery time.
 
 ---
 
 ## 🎯 Project Goals
 
 - Track hair-lightening progress over time
-- Record products and applications
-- Compare different areas of the hair
-- Track hydration and nutrition routines
-- Record personal observations
-- Practice SQL and data analysis
-- Explore patterns in the treatment over time
-
-  ---
-  ## 🤎 Hair Color Goal
-
-My goal is to gradually reach a chocolate brown shade while maintaining the health, moisture and curl pattern of my 3C/4A high-porosity hair.
-
-Rather than trying to lighten my hair quickly, I am documenting the process over time and adjusting the frequency of lightening treatments according to how my hair responds.
-
-The main things I am monitoring are:
-
-- Progress toward a chocolate brown tone
-- Color differences between the front and back sections
-- Dryness after lightening treatments
-- Moisture and softness after deep conditioning
-- Curl definition
-- Breakage
-- Overall hair condition
-
-Because the back of my hair has lightened faster than the front, I am currently focusing more on the front section to gradually create a more even result.
+- Build a structured longitudinal dataset
+- Record treatments and products used
+- Compare changes between different areas of the hair
+- Monitor hair-condition indicators
+- Document recovery and conditioning periods
+- Practice SQL using real personal data
+- Identify patterns as the dataset grows
+- Expand the project later with Python and data visualization
 
 ---
 
-## 🌻 Current Treatment
+## 🌻 Current Routine & Strategy
 
-### Lightening Products
+### Lightening
 
-- Garnier lightening cream
-- Chamomile spray
+The lightening process began around the lower nape/back area and was gradually expanded to other sections.
 
-### Supporting Hair Care
+The back responded more visibly than the front, creating an uneven progression.
 
-- Hydration products
-- Nutrition products
+My current approach is therefore more targeted rather than applying the same treatment equally across every section.
+
+I also use chamomile occasionally as part of the routine and record it separately so I can compare observations over time.
+
+### Recovery & Conditioning
+
+Recovery periods are an important part of the dataset.
+
+After noticing increased dryness, I introduced breaks from lightening and focused more on conditioning and moisture.
+
+These sessions can include products such as:
+
+- Dabur Amla Hair Oil
+- coconut oil
+- moisturizing treatments
+- other conditioning and nutrition products
+
+This allows me to compare hair-condition scores after different types of treatments rather than tracking color alone.
 
 ---
 
-## 🗺️ Application Strategy
+## 📝 Data Collection
 
-The treatment started at the lower part of the nape.
+I created a **Google Forms → Google Sheets** system to make the project easier to maintain consistently.
 
-The application is gradually expanding toward the rest of the head.
+After a treatment or observation, I record:
+
+| Variable | Example |
+|---|---|
+| Date | Observation date |
+| Treatment type | Lightening, deep conditioning, recovery, etc. |
+| Hair area | Front, back, nape, full hair, etc. |
+| Products used | Products used during the session |
+| Color progress | Personal 1–5 tracking scale |
+| Dryness | 1–5 |
+| Softness | 1–5 |
+| Shine | 1–5 |
+| Curl definition | 1–5 |
+| Breakage / shedding | 1–5 |
+| Overall condition | Better, same or worse |
+| Notes | Additional observations |
+
+The form automatically sends each response to Google Sheets.
+
+As more observations are collected, the dataset can be exported to CSV for analysis.
+
+### Data Pipeline
 
 ```text
-Nape
-  ↓
-Back
-  ↓
-Sides
-  ↓
-Crown
-  ↓
-Front
-  ↓
-Full Head
-
-```
-
----
-
-## 🖼️ Product & Hair Photo Gallery
-
-Below are photos of the products and hair strands used in this project (files are in the images/ folder).
-
-
-![Haie nupe after few days of using the Garnier Elixir](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01%20(2).jpeg)
-
-![Full hair back after straitening Taken on August 20th 2026 ] (images/<img width="1536" height="2048" alt="WhatsApp Image 2026-08-20 at 16 33 10" src="https://github.com/user-attachments/assets/c340f96c-e641-4400-94ed-e9df785929a7" />
-
-
-
-![Loción Spray Aclarante) / Product](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01%20(7).jpeg)
-_Alternate angle of a Herbal/Bionature product._
-
-![Garnier / Product (alternate)](images/WhatsApp%20Image%202026-08-08%20at%2018.49.01%20(8).jpeg)
-_Alternate Garnier Fructis product angle._
-
----
-
-If you'd like, I can also:
-
-- Rename the image files to descriptive, consistent filenames (e.g., `01-herbal-curl-activator-rizos.jpg`) and open a PR with the renames.
-- Create thumbnail versions or compress the images to reduce repository size.
-- Update image captions or add alt text changes.
-
-Tell me which of those you'd like me to do next and I will create the branch & PR for the renames and README changes.
+Hair treatment / observation
+        ↓
+Google Form
+        ↓
+Google Sheets
+        ↓
+CSV dataset
+        ↓
+SQL analysis
+        ↓
+Python / Pandas
+        ↓
+Visualizations & insights
