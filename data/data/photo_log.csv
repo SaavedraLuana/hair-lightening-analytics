@@ -1,3 +1,7 @@
-date,file_name,view,lighting,visible_observation
-2026-09-15,2026-09-15_side-lightening-progress.jpg,Side,Indoor bright light,"Visible variation in color; portions of the lengths and ends appear warmer and lighter than darker areas closer to the roots/top"
-2026-09-15,2026-09-15_overall-lightening-progress.jpg,Overall side view,Indoor bright light,"Overall color distribution visible across the hair; lighter brown tones are more noticeable through some lengths while other sections remain darker"
+date,file_name,view,lighting,hair_state,visible_observation
+2026-09-15,2026-09-15_side-lightening-progress.jpg,Side,Indoor bright light,Natural curls,"Visible variation in color; portions of the lengths and ends appear warmer and lighter than darker areas closer to the roots/top"
+2026-09-15,2026-09-15_overall-lightening-progress.jpg,Overall side view,Indoor bright light,Natural curls,"Overall color distribution visible across the hair; lighter brown tones are more noticeable through some lengths while other sections remain darker"
+2026-09-15,2026-09-15_back-lightening-progress.jpg,Back section,Indoor bright light,Natural curls,"Back lengths show visibly stronger lightening and warmer brown tones compared with the darker root/top area; useful for tracking section-to-section color progression"
+2026-09-20,2026-09-20_straightened-section-progress.jpeg,Section view,Indoor bright light,Straightened,"Upper section lifted to show color variation between sections; some lengths appear lighter and warmer than areas closer to the roots"
+2026-09-20,2026-09-20_straightened-overall-progress.jpeg,Overall view,Indoor bright light,Straightened,"Overall color distribution visible after blow-drying and flat ironing; variation between darker and warmer/lighter areas is visible across the lengths"
+2026-09-20,2026-09-20_straightened-color-detail.jpeg,Close-up section,Indoor bright light,Straightened,"Close-up shows visible variation between darker strands and lighter warmer-looking lengths and ends"
