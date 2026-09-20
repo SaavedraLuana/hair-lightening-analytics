@@ -1,2 +1,3 @@
-date,hair_area,dryness,softness,shine,curl_definition,breakage,condition_context,notes
-2026-09-15,Full hair,4,2,3,1,1,"After overnight deep conditioning","Hair assessed after overnight conditioning with Dabur Amla Hair Oil, coconut oil and olive oil moisturizing cream. Dryness remains relatively high, while reported breakage is low."
+date,hair_area,lightening_level,dryness,softness,shine,curl_definition,breakage,satisfaction,condition_context,notes
+2026-07-24,Nape,1,2,,3,,,3,Initial observation,"Initial observation recorded at the nape"
+2026-09-15,Full hair,,4,2,3,1,1,,"After overnight deep conditioning","Hair assessed after overnight conditioning with Dabur Amla Hair Oil, coconut oil and olive oil moisturizing cream. Dryness remains relatively high, while reported breakage is low."
